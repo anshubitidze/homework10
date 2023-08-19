@@ -1,7 +1,8 @@
-@media (max-width: 520px){
+@media (max-width: 620px){
 /* header */
     .main_header{
-        gap: 75%;
+        width: 80%;
+        gap: 60%;
     }
     .header_nav{
         display: none;
@@ -14,12 +15,21 @@
     }
     
 /* header */
+/* section 1 */
+    .section1{
+        margin: auto;
+    }
+/* section 1 */
 /* section 2 */
     .section2_div{
-        gap: 40px;
+        gap: 50px;
     }
     .main_footer{
         align-items: center;
     }
     
+
+    .feature_div{
+        gap: 46px;
+    }
 }

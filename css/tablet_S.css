@@ -1,6 +1,7 @@
 @media (max-width: 750px){
 /* section 1 */
     .section1{
+        margin: 24px auto;
         width: 95%;
     }
     .section1_title{
