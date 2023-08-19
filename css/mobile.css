@@ -1,0 +1,25 @@
+@media (max-width: 520px){
+/* header */
+    .main_header{
+        gap: 75%;
+    }
+    .header_nav{
+        display: none;
+    }
+    .header_button{
+        display: none;
+    }
+    .fa-bars{
+        display: block;   
+    }
+    
+/* header */
+/* section 2 */
+    .section2_div{
+        gap: 40px;
+    }
+    .main_footer{
+        align-items: center;
+    }
+    
+}

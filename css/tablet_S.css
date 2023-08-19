@@ -1,0 +1,43 @@
+@media (max-width: 750px){
+/* section 1 */
+    .section1{
+        width: 95%;
+    }
+    .section1_title{
+        font-size: 40px;
+    }
+    .tabletS_text{
+        display: block;
+    }
+/* section 1 */
+/* section 2 */
+    .section2_text_div{
+        flex-direction: column;
+        text-align: center;
+    }
+/* section 2 */
+/* section 3 */
+    .section3{
+        padding: 5%;
+    }
+    .feature_div{
+        flex-direction: column;
+    }
+    .feature_item{
+        width: 100%;
+    }
+    .feature_header{
+        justify-content: center;
+    }
+/* section 3 */
+/* footer */
+    .last_item_footer{
+        display: none;
+    }
+    .main_footer{
+        gap: 20px;
+    }
+/* footer */
+
+
+}
